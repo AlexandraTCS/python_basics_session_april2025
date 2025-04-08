@@ -1,0 +1,2 @@
+This is a sample file created inside the folder.
+You can add more content here!
